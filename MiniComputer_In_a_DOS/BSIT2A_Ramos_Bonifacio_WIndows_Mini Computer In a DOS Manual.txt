@@ -1,0 +1,11 @@
+MINI COMPUTER IN A DOS (Windows Batch version) by Arthur Tristan M. Ramos and Lee Robin P. Bonifacio MANUAL
+1. Please put the program in your Desktop.
+2. Please edit the .cmd file by right-clicking then clicking "Edit with Notepad++", "Edit" (if you do not have Notepad++) or edit with any text editor or IDE that you have.
+3. Search for commands with g20arthur, please replace it with your username in your computer.
+4. In selecting a task or app, please use only a specific number of it for execution or (or x) for closing the program.
+5. If you will do AGAIN these following commands: 16 and 18, please CLOSE first the .CMD file then select it again after 
+reopening the .CMD file.
+6. Yes or No answers can only be answered by Y or N (case-insensitive).
+7. Wrong answers in choosing a command by number or X symbol or choosing from a Y or N will immediately close the program
+meaning that you have entered an incorrect input.
+8. In copying, removing and moving files. Please enter files with its specific EXTENSION. Thank you.
